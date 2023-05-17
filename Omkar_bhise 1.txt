@@ -1,0 +1,81 @@
+Document: System Requirement Specification Document
+
+Title: System Requirement document for Ticket Booking System
+
+Objective:
+	This  Ticket Booking System should provide facility to registered account holders 
+	of the  to do all types of traveling, other 
+	traveling servies from their digital devices.
+
+
+Scope: 
+	This System allows customers to do online booking Ticket.
+	
+	Will be available to everyone across the globe 24*7.
+       
+Functional Requirements:-
+
+- Any user will be able to create new account.
+
+- Any anonymous user will be able to view services which are provided by the Ticket booking system.
+
+- Registered user will be able to view and pay all types of Ticket and will be be able to view Ticket history. 
+
+
+- Web application will show investment options like share for airline-tickets,bus ticket,train ticket.
+
+- Registered user will be able to enable and disable user account service.
+
+
+- Registered user will be able to give feedback about all tickrt booking system services.
+
+- Customer care number will be displayed on the homepage.
+
+
+ Non Functional Requirements :-
+1.Safety
+	User must provide login credentials before availing the all tickrts booking  services.
+	In case if the user is inactive for sometime then redirect to the login page.
+	  
+
+2.Security: 
+	Website should be protected from outside malicious attacks with firewall configuration.	
+	Sensitive details of customers will be encrypted across communication. 
+	
+
+3.Availability 
+	The ticket booking website should be available 24*7 i.e 99.999%.
+	
+
+4.Reliability 
+		The system should backup all the data and update the system on time,
+                so that during any circustances the system will
+                work properly and service will be provided uniformly.
+
+
+5.Usability  
+	The ticket booking website should be easy to handle for everyone.
+   	The system should be user friendly and simple to learn.
+    	The system must provide graphical interface .
+   
+   
+ 6.Maintainability  
+ 	A Database should be used for maintaining system data.
+
+ 
+ 7.Portability 
+               Portable Device Application
+               System will provide portable User Interface through users will be able to access ticket booking System.
+
+ 
+ 8.Accessibility  
+ 	Only account holder customer will be able to do E-Banking after authentication.
+	Customer's can able to see the previous transaction details.
+
+ 
+ 9.Efficiency
+ 	System will be able to manage all ticket booking with isolation.
+
+ 
+ 10.Scalability 
+   System will be able to provide consistent user exeprience to account holder.

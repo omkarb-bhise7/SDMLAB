@@ -1,0 +1,48 @@
+ 
+   Bussiness Entities:
+ 1. Customer :- custid,cnanme,phoneno,address
+
+ 2. Account:- accno,custid
+
+ 3. traveling- route , trvels mode
+
+ 4. Cards:- bus ticket,airline tickets,train tickets.
+
+ 5. station- location,time ,date,ticket,mode of traveling
+
+       
+   Business Operation 
+
+
+  1) Home page - create homepage so that visitor can avail services offered online ticket booking system.
+
+2) User registration page - create user resgistration page so that user can register himself.
+    user name
+    password
+
+3) Account creation -  create account page so that user can create account in online ticket booking system .
+
+4) account details page - create account details page so that user can be able to view account detials .for traveling date,mode,city.
+  
+5) online money transations -  create account transaction page so that user can do all types of transactions.
+
+6) View bill history - create view bills page so that we can wview all bills and bill history.
+
+7) Feedback page - Create a feedback page so that we can give feedback.
+
+8) Display Customer care number - Give an option for customer care contact so that customer can raise the complaint.
+
+13) logout / signout - Give customer option to logout from the web account.
+
+
+
+
+
+
+
+
+
+
+
+
+
